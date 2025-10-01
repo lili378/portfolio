@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+
+    background-color: rgb(99, 154, 184);
+}
+
+a {
+
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    color: rgb(178, 198, 216);
+}
+
+/* div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+} */
+
+p {
+    color: rgb(208, 228, 246);
+}
+
+/* .grid-gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+} */
+
+.grid img {
+    margin-bottom: 15px;
+    cursor: pointer;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: solid 4px rgb(26, 69, 106);
+    margin-top: 3rem;
+}
+
+.grid a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 2rem;
+    ;
+}
+
+.grid-gallery img:hover {
+    opacity: 0.8;
+    transform: scale(1.02);
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 2rem;
+
+    /* width: 100%; */
+    /* max-width: 1200px; */
+    padding: 20px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(26, 69, 106);
+    padding: 20px 20px;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.navbar a {
+    font-size: 1.5rem;
+    color: aliceblue;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+ul {
+    list-style: none;
+}
+
+.navbar a:hover {
+    color: rgb(178, 198, 216);
+}
