@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ether's Shop | Art Supplies & Gold Jewelry</title>
+    <meta name="description"
+        content="Shop Ether's curated collection of art supplies and Christian-appropriate gold jewelry. Discover warm, expressive products designed to inspire creativity and clarity." />
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <header class="navbar" role="navigation" aria-label="Main navigation">
+        <div class="logo">Ether's Shop</div>
+        <button class="menu-toggle" id="menu-toggle" aria-label="Toggle menu">☰</button>
+        <ul class="nav-links" id="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#" id="cart-link">Cart (<span id="cart-count">0</span>)</a></li>
+        </ul>
+    </header>
+
+    <!-- 🌿 Landing Section -->
+    <section class="landing-container" aria-labelledby="landing-heading">
+        <div class="landing-overlay">
+            <h1 id="landing-heading">Welcome to Ether's Curated Shop</h1>
+            <p>
+                Discover <strong>art supplies</strong> and <strong>gold jewelry</strong> that reflect clarity, and
+                warmth.
+                Every item is handpicked to inspire creativity and celebrate beauty with intention.
+            </p>
+            <button><a href="#product">Explore Products</a></button>
+        </div>
+        <img src="./some.jpg" alt="Warm-toned banner featuring canvas and gold jewelry" class="landing-image" />
+    </section>
+
+    <!-- 🛍️ Store Section -->
+    <main id="product">
+        <section class="controls" aria-label="Product filters">
+            <input type="text" id="search-input" placeholder="Search products..." aria-label="Search products" />
+            <select id="category-filter" aria-label="Filter by category">
+                <option value="all">All</option>
+                <option value="Art Supplies">Art Supplies</option>
+                <option value="Gold Jewelry">Gold Jewelry</option>
+            </select>
+            <select id="sort-price" aria-label="Sort by">
+                <option value="default">Sort by</option>
+                <option value="low">Price: Low to High</option>
+                <option value="high">Price: High to Low</option>
+                <option value="az">Name: A → Z</option>
+            </select>
+        </section>
+
+        <section id="product-grid" aria-label="Product listings"></section>
+        <nav id="pagination" aria-label="Pagination controls"></nav>
+    </main>
+
+    <!-- 🛒 Cart Panel -->
+    <aside id="cart-panel" class="cart-panel" aria-label="Shopping cart">
+        <button id="close-cart" class="close-cart" aria-label="Close cart">✖</button>
+        <h2>Your Cart</h2>
+        <div id="cart-items"></div>
+        <div id="cart-total"></div>
+    </aside>
+
+    <script src="shop.js"></script>
+</body>
+
+</html>

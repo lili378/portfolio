@@ -1,0 +1,212 @@
+[
+    {
+        "id": "art01",
+        "category": "Art Supplies",
+        "title": "Watercolor Set",
+        "price": 24.99,
+        "description": "Vibrant watercolor palette for expressive painting.",
+        "images": [
+            "https://images.pexels.com/photos/6487216/pexels-photo-6487216.jpeg?_gl=1*1u50buq*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjE5NjMkajQzJGwwJGgw",
+            "1.png"
+        ]
+    },
+    {
+        "id": "art02",
+        "category": "Art Supplies",
+        "title": "Sketchbook Journal",
+        "price": 12.50,
+        "description": "Acid-free pages perfect for devotional sketches.",
+        "images": [
+            "https://images.pexels.com/photos/1610992/pexels-photo-1610992.jpeg?_gl=1*14rlxyj*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIwMzEkajQ5JGwwJGgw",
+            "2.png"
+        ]
+    },
+    {
+        "id": "art03",
+        "category": "Art Supplies",
+        "title": "Acrylic Paint Tubes",
+        "price": 19.99,
+        "description": "Bold, fast-drying colors for mixed media art.",
+        "images": [
+            "https://images.pexels.com/photos/2746824/pexels-photo-2746824.jpeg?_gl=1*1a9bt6c*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIwNzUkajUkbDAkaDA.",
+            "3.png"
+        ]
+    },
+    {
+        "id": "art04",
+        "category": "Art Supplies",
+        "title": "Brush Set",
+        "price": 15.00,
+        "description": "Versatile brushes for fine detail and broad strokes.",
+        "images": [
+            "https://images.pexels.com/photos/6966320/pexels-photo-6966320.jpeg?_gl=1*146omvt*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIxMjYkajMwJGwwJGgw",
+            "4.png"
+        ]
+    },
+    {
+        "id": "art05",
+        "category": "Art Supplies",
+        "title": "Canvas Panels",
+        "price": 18.75,
+        "description": "Sturdy canvas boards for inspired creations.",
+        "images": [
+            "https://images.pexels.com/photos/8189135/pexels-photo-8189135.jpeg?_gl=1*1mpsaz3*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIxNTMkajMkbDAkaDA.",
+            "5.png"
+        ]
+    },
+    {
+        "id": "art06",
+        "category": "Art Supplies",
+        "title": "Colored Pencil Set",
+        "price": 14.99,
+        "description": "Smooth layering pencils for joyful illustrations.",
+        "images": [
+            "https://images.pexels.com/photos/31267726/pexels-photo-31267726.jpeg?_gl=1*ats4yz*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIxODkkajQ2JGwwJGgw",
+            "6.png"
+        ]
+    },
+    {
+        "id": "art07",
+        "category": "Art Supplies",
+        "title": "Ink Calligraphy Kit",
+        "price": 22.00,
+        "description": "Elegant ink tools for scripture lettering.",
+        "images": [
+            "https://images.pexels.com/photos/356372/pexels-photo-356372.jpeg?_gl=1*2fs5wn*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIyMzIkajMkbDAkaDA.",
+            "7.png"
+        ]
+    },
+    {
+        "id": "art08",
+        "category": "Art Supplies",
+        "title": "Palette Knives",
+        "price": 9.99,
+        "description": "Ideal for textured acrylic and oil techniques.",
+        "images": [
+            "https://images.pexels.com/photos/6693753/pexels-photo-6693753.jpeg?_gl=1*1phejg8*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIyNzEkajQxJGwwJGgw",
+            "8.png"
+        ]
+    },
+    {
+        "id": "art09",
+        "category": "Art Supplies",
+        "title": "Art Apron",
+        "price": 16.50,
+        "description": "Comfortable, washable apron with scripture quote.",
+        "images": [
+            "https://images.pexels.com/photos/3778144/pexels-photo-3778144.jpeg?_gl=1*1wjba9g*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIzMDgkajQkbDAkaDA.",
+            "9.png"
+        ]
+    },
+    {
+        "id": "art10",
+        "category": "Art Supplies",
+        "title": "Blending Markers",
+        "price": 21.99,
+        "description": "Alcohol-based markers for smooth gradients.",
+        "images": [
+            "https://images.pexels.com/photos/28892332/pexels-photo-28892332.jpeg?_gl=1*1le4v7e*_ga*MTQ1ODc3ODE1My4xNzU4NTU5NzM5*_ga_8JE65Q40S6*czE3NTg1NjE5NDYkbzIkZzEkdDE3NTg1NjIzNDIkajQ2JGwwJGgw",
+            "10.png"
+        ]
+    },
+    {
+        "id": "jewel01",
+        "category": "Gold Jewelry",
+        "title": "Jumbo Ring",
+        "price": 120.00,
+        "description": "14K gold jumbo ring graceful and timeless.",
+        "images": [
+            "img/1.png"
+        ]
+    },
+    {
+        "id": "jewel02",
+        "category": "Gold Jewelry",
+        "title": "Bracelet stack",
+        "price": 85.00,
+        "description": "Delicate colorful bracelets for culture.",
+        "images": [
+            "img/2.png"
+        ]
+    },
+    {
+        "id": "jewel03",
+        "category": "Gold Jewelry",
+        "title": "Psalm Bracelet",
+        "price": 95.00,
+        "description": "Gold chain bracelet inspired by psalm.",
+        "images": [
+            "img/3.png"
+        ]
+    },
+    {
+        "id": "jewel04",
+        "category": "Gold Jewelry",
+        "title": "Angel Wing Jewelry combo",
+        "price": 110.00,
+        "description": "Elegant drop jewelry combo.",
+        "images": [
+            "img/4.png"
+        ]
+    },
+    {
+        "id": "jewel05",
+        "category": "Gold Jewelry",
+        "title": "Bangle set",
+        "price": 130.00,
+        "description": "Graceful colorful bangle set.",
+        "images": [
+            "img/5.png"
+        ]
+    },
+    {
+        "id": "jewel06",
+        "category": "Gold Jewelry",
+        "title": "Abena earrrings",
+        "price": 75.00,
+        "description": "Dainty gold earrings with abena name.",
+        "images": [
+            "img/6.png"
+        ]
+    },
+    {
+        "id": "jewel07",
+        "category": "Gold Jewelry",
+        "title": "Hope Stack",
+        "price": 60.00,
+        "description": "Minimalist gold stacks engraved with gems.",
+        "images": [
+            "img/7.png"
+        ]
+    },
+    {
+        "id": "jewel08",
+        "category": "Gold Jewelry",
+        "title": "Crown of Life bangle stack",
+        "price": 140.00,
+        "description": "Symbolic bangle stack inspired by James 1:12.",
+        "images": [
+            "img/8.png"
+        ]
+    },
+    {
+        "id": "jewel09",
+        "category": "Gold Jewelry",
+        "title": "Cross Earring",
+        "price": 150.00,
+        "description": "Gold Cross Earring with gems.",
+        "images": [
+            "img/9.png"
+        ]
+    },
+    {
+        "id": "jewel10",
+        "category": "Gold Jewelry",
+        "title": "Light of the World bangle stack",
+        "price": 125.00,
+        "description": "Radiant bangle stack inspired by John 8:12.",
+        "images": [
+            "img/10.png"
+        ]
+    }
+]
