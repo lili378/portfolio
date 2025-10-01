@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chemistry Quiz Game</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="quiz-container">
+        <h1>Chemistry Quiz Game</h1>
+
+        <div id="setup-box">
+            <label for="category-select">Choose category:</label>
+            <select id="category-select">
+                <option value="All">All</option>
+                <option value="Matter">Matter</option>
+                <option value="Atomic Structure">Atomic Structure</option>
+                <option value="Chemical Bonds">Chemical Bonds</option>
+                <option value="Chemical Reactions">Chemical Reactions</option>
+                <option value="Acids and Bases">Acids and Bases</option>
+            </select>
+
+            <label for="question-count">Number of questions:</label>
+            <select id="question-count">
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+            </select>
+
+            <button id="start-btn">Start Quiz</button>
+        </div>
+
+        <div id="quiz-box" class="hidden">
+            <div id="question"></div>
+            <ul id="choices"></ul>
+            <p id="feedback"></p>
+            <button id="submit-btn">Submit</button>
+        </div>
+
+        <div id="score-box" class="hidden">
+            <p id="score"></p>
+            <input type="text" id="username" placeholder="Enter your name" />
+            <button id="save-score-btn">Save Score</button>
+            <button id="restart-btn">Restart</button>
+        </div>
+
+        <div id="leaderboard-box">
+            <h2>Leaderboard</h2>
+            <ul id="leaderboard"></ul>
+            <button id="reset-leaderboard-btn">Reset Leaderboard</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

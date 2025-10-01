@@ -1,0 +1,224 @@
+{
+  "questions": [
+    {
+      "question": "What is matter?",
+      "options": [
+        "Anything that is a liquid",
+        "Anything that has mass and takes up space",
+        "Anything that has color",
+        "Anything that can be seen"
+      ],
+      "answer": 1,
+      "category": "Matter"
+    },
+    {
+      "question": "Which of the following is a pure substance made of only one type of atom?",
+      "options": [
+        "Solution",
+        "Compound",
+        "Element",
+        "Mixture"
+      ],
+      "answer": 2,
+      "category": "Matter"
+    },
+    {
+      "question": "What is formed when two or more different elements are chemically bonded?",
+      "options": [
+        "Compound",
+        "Mixture",
+        "Solution",
+        "Element"
+      ],
+      "answer": 0,
+      "category": "Matter"
+    },
+    {
+      "question": "Which of the following is a physical combination of substances?",
+      "options": [
+        "Compound",
+        "Mixture",
+        "Molecule",
+        "Element"
+      ],
+      "answer": 1,
+      "category": "Matter"
+    },
+    {
+      "question": "Which subatomic particle has a positive charge?",
+      "options": [
+        "Proton",
+        "Photon",
+        "Neutron",
+        "Electron"
+      ],
+      "answer": 0,
+      "category": "Atomic Structure"
+    },
+    {
+      "question": "Where are neutrons located in an atom?",
+      "options": [
+        "Outside the nucleus",
+        "In the electron cloud",
+        "In the nucleus",
+        "In the outer shell"
+      ],
+      "answer": 2,
+      "category": "Atomic Structure"
+    },
+    {
+      "question": "What is the charge of an electron?",
+      "options": [
+        "Neutral",
+        "Variable",
+        "Negative",
+        "Positive"
+      ],
+      "answer": 2,
+      "category": "Atomic Structure"
+    },
+    {
+      "question": "What does the atomic number of an element represent?",
+      "options": [
+        "Number of protons",
+        "Number of electrons",
+        "Mass of the atom",
+        "Number of neutrons"
+      ],
+      "answer": 0,
+      "category": "Atomic Structure"
+    },
+    {
+      "question": "How is the mass number of an atom calculated?",
+      "options": [
+        "Electrons + Neutrons",
+        "Protons + Neutrons",
+        "Protons × Neutrons",
+        "Protons + Electrons"
+      ],
+      "answer": 1,
+      "category": "Atomic Structure"
+    },
+    {
+      "question": "What are columns in the periodic table called?",
+      "options": [
+        "Groups",
+        "Blocks",
+        "Periods",
+        "Rows"
+      ],
+      "answer": 0,
+      "category": "Periodic Table"
+    },
+    {
+      "question": "What are rows in the periodic table called?",
+      "options": [
+        "Periods",
+        "Families",
+        "Blocks",
+        "Groups"
+      ],
+      "answer": 0,
+      "category": "Periodic Table"
+    },
+    {
+      "question": "Which part of the periodic table contains metals?",
+      "options": [
+        "Left side",
+        "Top",
+        "Right side",
+        "Bottom"
+      ],
+      "answer": 0,
+      "category": "Periodic Table"
+    },
+    {
+      "question": "Which group in the periodic table contains very stable elements?",
+      "options": [
+        "Group 7",
+        "Group 1",
+        "Group 18",
+        "Group 14"
+      ],
+      "answer": 2,
+      "category": "Periodic Table"
+    },
+    {
+      "question": "What type of bond involves the transfer of electrons?",
+      "options": [
+        "Metallic bond",
+        "Hydrogen bond",
+        "Covalent bond",
+        "Ionic bond"
+      ],
+      "answer": 3,
+      "category": "Chemical Bonds"
+    },
+    {
+      "question": "What type of bond involves the sharing of electrons?",
+      "options": [
+        "Metallic bond",
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond"
+      ],
+      "answer": 2,
+      "category": "Chemical Bonds"
+    },
+    {
+      "question": "Why do atoms form chemical bonds?",
+      "options": [
+        "To become more stable",
+        "To increase their mass",
+        "To change their color",
+        "To become radioactive"
+      ],
+      "answer": 0,
+      "category": "Chemical Bonds"
+    },
+    {
+      "question": "What are the starting materials in a chemical reaction called?",
+      "options": [
+        "Solutes",
+        "Reactants",
+        "Catalysts",
+        "Products"
+      ],
+      "answer": 1,
+      "category": "Chemical Reactions"
+    },
+    {
+      "question": "What does the Law of Conservation of Mass state?",
+      "options": [
+        "Mass can be destroyed",
+        "Mass can be created",
+        "Matter is not created or destroyed",
+        "Energy is always lost"
+      ],
+      "answer": 2,
+      "category": "Chemical Reactions"
+    },
+    {
+      "question": "Which ion do acids produce?",
+      "options": [
+        "Hydroxide ions (OH⁻)",
+        "Hydrogen ions (H⁺)",
+        "Sodium ions (Na⁺)",
+        "Chloride ions (Cl⁻)"
+      ],
+      "answer": 1,
+      "category": "Acids and Bases"
+    },
+    {
+      "question": "What is the pH of a neutral substance?",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "10"
+      ],
+      "answer": 1,
+      "category": "Acids and Bases"
+    }
+  ]
+}
