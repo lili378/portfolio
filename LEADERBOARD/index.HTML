@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Leaderboard</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="paint-frame">
+        <h1 class="title">Leaderboard</h1>
+
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="Search by name or country..." />
+        </div>
+
+        <div class="table-wrapper">
+            <table class="leaderboard-table">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th id="sort-first">First Name <span class="sort-icon" data-key="firstName"></span></th>
+                        <th id="sort-last">Last Name <span class="sort-icon" data-key="lastName"></span></th>
+                        <th id="sort-score">Score <span class="sort-icon" data-key="score"></span></th>
+                        <th id="sort-level">Level <span class="sort-icon" data-key="level"></span></th>
+                        <th id="sort-date">Join Date <span class="sort-icon" data-key="join_date"></span></th>
+                        <th id="sort-country">Country <span class="sort-icon" data-key="country"></span></th>
+                    </tr>
+                </thead>
+                <tbody id="leaderboard-body"></tbody>
+            </table>
+        </div>
+
+        <div class="pagination-controls">
+            <button id="prev-btn">Previous</button>
+            <button id="next-btn">Next</button>
+        </div>
+
+        <footer class="help-text">
+            For Help, click Help Topics on the Help Menu.
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
